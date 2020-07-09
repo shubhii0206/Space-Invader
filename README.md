@@ -1,1 +1,1 @@
-# Space-Invader
+A basic space invader game using python pygame.
